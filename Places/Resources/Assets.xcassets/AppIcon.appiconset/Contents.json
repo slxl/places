@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "slxl_icon_design_for_Places_application_minimalistic_and_modern_21c2d8fa-df88-40b7-88db-a334a6b15995.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
