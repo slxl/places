@@ -39,7 +39,6 @@ extension LocationListComponent {
                         Image(systemName: "plus")
                     }
                     .tint(.cyan)
-                    .symbolEffect(.bounce, value: viewModel.showingAddLocation)
                 )
                 .sheet(isPresented: $viewModel.showingAddLocation) {
                     CreateLocationComponent.UI(viewModel: viewModel.createLocationViewModel())
